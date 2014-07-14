@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ToDoList1</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="enter_todo">Enter new item</string>
+    <string name="add_button">Add</string>
+    <string name="update_button">Update</string>
+    <string name="edit_label">Edit Item</string>
+    <string name="success">\o/</string>
+    
+</resources>
